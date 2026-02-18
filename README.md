@@ -110,3 +110,7 @@ DC_Harvest/
 ## Licence
 
 MIT — libre à utiliser, modifier et redistribuer.
+
+## DISCORD
+
+https://discord.gg/XnkrNnqFtK
